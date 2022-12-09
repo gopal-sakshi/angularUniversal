@@ -112,7 +112,7 @@
           "options": {
             "outputPath": "dist/angularUniversal/server",
             "main": "server.ts",
-            "tsConfig": "tsconfig.server.json",
+            "tsConfig": "tsconfig23.server.json",
             "inlineStyleLanguage": "scss"
           },
           "configurations": {
